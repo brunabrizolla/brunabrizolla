@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bruna Brizolla :woman_technologist:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn Profile](https://www.linkedin.com/in/bruna-brizolla-3b9273179/)
 
-<!--
-**brunabrizolla/brunabrizolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hellooo! :wave: Welcome to my profile.
 
-Here are some ideas to get you started:
+My name is Bruna and I'm Data Science and Robotic Process Automation Student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>:chart_with_upwards_trend: Learning more about Data Science</li>
+<li>:robot: Also Robotic Process Automation</li>
+<li>:sparkling_heart: In love with Python</li>
+<li>:woman_office_worker: Process Analisis</li>
+</ul>
